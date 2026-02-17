@@ -2,8 +2,8 @@
 
 <p align="center">
   🌍 From Mar del Plata, Argentina <br>
-  🎓 Final-year Informatics Engineering student <br>
-  💻 Fullstack Developer | QA Engineer | Blockchain Enthusiast
+  🎓 Informatics Engineer <br>
+  💻 Fullstack Developer | Blockchain Enthusiast
 </p>
 
 ---
@@ -17,9 +17,9 @@
 - Entrepreneurship & event services
 
 ### 📝 Recent learning
-- Currently enrolled in the **Ethereum Developer Pack** course
 - Completed the **Deep Dive into Blockchain** course at the **University of Zurich**
 - Participated in Web3/ICP bootcamps and academic blockchain events
+- Attended DevConnect Argentina and won a prize at the Ethereum Argentina Hackathon
 
 ### 👀 Ask me about
 - **Next.js, TypeScript, PostgreSQL, C, Python, and JavaScript**
@@ -29,5 +29,5 @@
 - [LinkedIn](https://linkedin.com/in/ramirocardelli)
 
 ### ⚡ Fun fact
-- Language lover! (**Spanish, English, German, Hungarian**)
+- Language lover! (**Spanish, English, German, French, Portuguese & Hungarian**)
 - Always curious about learning and building new things
